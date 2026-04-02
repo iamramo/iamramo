@@ -33,9 +33,6 @@ I'm a fullstack developer with a strong opinion that shipping good software mean
 ![MCP](https://img.shields.io/badge/MCP-ffffff?style=flat&logo=anthropic&logoColor=000000)
 ![OpenCode](https://img.shields.io/badge/OpenCode-ffffff?style=flat&logo=gnometerminal&logoColor=000000)
 
----
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=iamramo&theme=default&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 ---
 
