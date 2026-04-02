@@ -32,5 +32,3 @@ I'm a fullstack developer with a strong opinion that shipping good software mean
 ![AI / LLMs](https://img.shields.io/badge/AI%20%2F%20LLMs-ffffff?style=flat&logo=openai&logoColor=000000)
 ![MCP](https://img.shields.io/badge/MCP-ffffff?style=flat&logo=anthropic&logoColor=000000)
 ![OpenCode](https://img.shields.io/badge/OpenCode-ffffff?style=flat&logo=gnometerminal&logoColor=000000)
-
---
