@@ -1,24 +1,16 @@
 # Hello, I am Ramo 👋
 
-Fullstack Developer · Yurchi AB · Malmö, Sweden
-
----
+_Building products end-to-end, from the first line of infrastructure to the last pixel of UI._
 
 ### About
 
-_Building products end-to-end, from the first line of infrastructure to the last pixel of UI._
-
 I'm a fullstack developer with a strong opinion that shipping good software means owning the whole stack. I've worked across backend APIs, databases, cloud infrastructure, and frontend, and I genuinely enjoy all of it. These days I'm especially drawn to AI/LLM tooling, self-hosted systems, and the kind of developer tooling that makes hard things feel easy.
-
----
 
 ### Currently building
 
 | Project                                       | Description                                                                   | Stack                |
 | --------------------------------------------- | ----------------------------------------------------------------------------- | -------------------- |
 | [**Zanat**](https://github.com/iamramo/zanat) | CLI tool for managing AI agent skills as versioned markdown from any Git repo | TypeScript & Node.js |
-
----
 
 ### Tech
 
